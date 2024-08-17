@@ -133,7 +133,7 @@ class KurdistanMap {
     const mapContainer = document.getElementById('map-container');
     const clone = mapContainer.cloneNode(true);
     const watermark = document.createElement('div');
-    watermark.textContent = 'Kurdistan';
+    watermark.textContent = 'https://heviyane.github.io/KurdistanMapSelect/';
     watermark.style.position = 'absolute';
     watermark.style.bottom = '10px';
     watermark.style.left = '10px';
