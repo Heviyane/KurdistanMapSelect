@@ -137,7 +137,7 @@ class KurdistanMap {
     watermark.style.position = 'absolute';
     watermark.style.bottom = '10px';
     watermark.style.left = '10px';
-    watermark.style.fontSize = '24px';
+    watermark.style.fontSize = '20px';
     watermark.style.fontWeight = 'bold';
     watermark.style.color = 'black';
     clone.appendChild(watermark);
